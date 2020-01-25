@@ -10,7 +10,7 @@
 ----------------- Web -------------------------
 <p>BISA DI CEK / KUNJUNGI LEWAT
 https://library-dumb.firebaseapp.com/</p>
-<p>Stack yang di gunakan : ReactJS,ReactRouter,Material-ui,Firebase,NodeJs
+<p>Stack yang di gunakan : ReactJS, ReactRouter, Material-ui, Firebase, NodeJs
 <p align="center">
   <img src="https://github.com/barared28/DumbwaysTest/blob/master/No4-Web1.png" width="350" title="hover text">
 </p>
