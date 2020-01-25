@@ -10,7 +10,23 @@
   <img src="https://github.com/barared28/DumbwaysTest/blob/master/No2.png" width="350" title="hover text">
 </p>
 
+# NO 3
+
+Belum sempat mengerjakan ,, waktu habis
+
 # NO 4.
+
+================= DATABASE =============
+
+<p align="center">
+  <img src="https://github.com/barared28/DumbwaysTest/blob/master/No4-Database1.png" width="350" title="hover text">
+</p>
+<p align="center">
+  <img src="https://github.com/barared28/DumbwaysTest/blob/master/No4-Database2.png" width="350" title="hover text">
+</p>
+<p align="center">
+  <img src="https://github.com/barared28/DumbwaysTest/blob/master/No4-Database3.png" width="350" title="hover text">
+</p>
 
 ----------------- Web -------------------------
 <p>BISA DI CEK / KUNJUNGI LEWAT
